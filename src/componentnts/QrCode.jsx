@@ -53,7 +53,8 @@ const QrCode = () => {
                     <div className="captcha-content">
                         <form onSubmit={handleSubmit} className="captcha-form">
                             <div className="form-group">
-                                <div style={{
+                                <div className='input-captcha'
+                                style={{
                                     display: "flex",
                                     gridTemplateColumns: "1fr 1fr"
                                 }}>
@@ -89,7 +90,9 @@ const QrCode = () => {
                                         margin: "0 auto",
                                         width: "430px",
                                         gap: "30px"
-                                    }}>
+                                    }}
+                                    className="captcha-display-mm"
+                                    >
                                         <span className="label">CAPTCHA:</span>
                                         <div className="captcha-box-wrapper">
                                             <div className="captcha-box">{captchaCode}</div>

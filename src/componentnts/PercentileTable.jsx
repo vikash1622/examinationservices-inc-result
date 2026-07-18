@@ -22,7 +22,7 @@ const PercentileTable = () => {
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Chemistry</p>
                     </td>
                     <td style={{ width: '374pt', border: '1pt solid #CCCCCC' }} colSpan="4">
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>94.441981</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>94.4419810</p>
                     </td>
                 </tr>
                 <tr style={{ height: '16pt' }}>
@@ -87,7 +87,7 @@ const PercentileTable = () => {
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>53527</p>
                     </td>
                     <td style={{ width: '70pt', border: '1pt solid #CCCCCC' }}>
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>OBC-NCL (Centeral List)</p>
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>OBC-NCL (Central List)</p>
                     </td>
                     <td style={{ width: '104pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>26447</p>

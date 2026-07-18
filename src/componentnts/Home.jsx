@@ -31,7 +31,7 @@ const Home = () => {
         <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'center' }}>
           <div>
             <h3 style={{ paddingTop: '3pt', paddingLeft: '5pt', textIndent: '0pt', textAlign: 'left' }}>DATE OF EXAM: 21 June 2026</h3>
-            <h3 style={{ paddingTop: '3pt', paddingLeft: '5pt', textIndent: '0pt', textAlign: 'left' }}>DATE OF DECLARATION OF RESULT: 16.06.2026</h3>
+            <h3 style={{ paddingTop: '3pt', paddingLeft: '5pt', textIndent: '0pt', textAlign: 'left' }}>DATE OF DECLARATION OF RESULT: 16.07.2026</h3>
           </div>
           <div style={{ marginRight: '30px' }}>
 
